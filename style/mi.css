@@ -1,7 +1,15 @@
 body{
     background-color:aqua;
 }
+nav ul{
+display: flex;
+}
+nav li{
+    list-style: none;
+    margin-right: 70px;
+    
+}
 label{
     display: block;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
